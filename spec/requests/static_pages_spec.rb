@@ -1,5 +1,5 @@
 require 'spec_helper'
-
+#testing changes.
 describe "Static pages" do
 
   subject { page }
